@@ -2,7 +2,7 @@
 
 ## Overview of Election Audit:
 In this project we were assisting a Colorado Board of Elections employee in an election audit of the tabulated results for U.S. Congressional precinct in Colorado.
-We monitored data to report the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candedate, and the winner of the election based on the popula vote.
+We monitored data using Python to report the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candedate, and the winner of the election based on the popula vote.
 
 ## Election-Audit Results:
 ![pic](https://github.com/ElenaMasarsky/Election_Analysis/blob/main/analysis/election_results.png)

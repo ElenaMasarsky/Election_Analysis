@@ -23,5 +23,5 @@ This script is going to be useful any other election.
 For example,  
 ![We can upload any other data in csv-file from any other counties.](https://github.com/ElenaMasarsky/Election_Analysis/blob/main/analysis/csv_file_to_upload.png)  
 We can upload any other data in csv-file from any other counties.  
-![The script will automatically extract candidates and counties names and colculate all votes and percentages.](https://github.com/ElenaMasarsky/Election_Analysis/blob/main/analysis/extract_names_and_counties.png)
+![The script will automatically extract candidates and counties names and colculate all votes and percentages.](https://github.com/ElenaMasarsky/Election_Analysis/blob/main/analysis/extract_names_and_counties.png)  
 The script will automatically extract candidates and counties names and colculate all votes and percentages.

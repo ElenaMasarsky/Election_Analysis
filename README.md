@@ -19,7 +19,7 @@ Raymon Anthony Doane: 3.1% (11,606)
 * Diana DeGette won the Elections with 272,892 of Vote Count and 73.8% of the total votes.
 
 ## Election-Audit Summary:
-This script is going to be useful any other election.  
+This script is going to be useful in any other election.  
 For example,  
 ![We can upload any other data in csv-file from any other counties.](https://github.com/ElenaMasarsky/Election_Analysis/blob/main/analysis/csv_file_to_upload.png)  
 We can upload any other data in csv-file from any other counties.  

@@ -11,7 +11,7 @@ We monitored data to report the total number of votes cast, the total number of 
 Jefferson: 10.5% (38,855)  
 Denver: 82.8% (306,055)  
 Arapahoe: 6.7% (24,801)  
-* Dtnver county had the largest number of votes.
+* Denver county had the largest number of votes.
 * For the candidates, the votes were distributed this way:  
 Charles Casper Stockham: 23.0% (85,213)  
 Diana DeGette: 73.8% (272,892)  
